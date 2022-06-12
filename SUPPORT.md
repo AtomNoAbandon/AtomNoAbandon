@@ -1,9 +1,8 @@
-# Atom Support
+# Atom No Abandon Support
 
-If you're looking for support for Atom there are a lot of options, check out:
+If you're looking for support for our project there is only 2 ways that require a GitHub account.
 
-* User Documentation &mdash; [The Atom Flight Manual](https://flight-manual.atom.io)
-* Developer Documentation &mdash; [Atom API Documentation](https://atom.io/docs/api/latest)
-* Message Board &mdash; [Github Discussions, the official Atom message board](https://github.com/atom/atom/discussions)
+Your First Option is to create an issue on AtomNoAbandon repository at https://github.com/SoftOrangeTech/AtomNoAbandon/issues.
+Your Second Option is to go to the GitHub Discussion link at https://github.com/SoftOrangeTech/AtomNoAbandon/discussions.
 
-On Atoms Github Discussions board, there are a bunch of helpful community members that should be willing to point you in the right direction.
+On Atom No Abandon Github Discussions board, there are a bunch of helpful community members that should be willing to point you in the right direction.
