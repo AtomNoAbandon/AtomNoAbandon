@@ -13,10 +13,10 @@ case $(basename $0) in
   atom-beta)
     CHANNEL=beta
     ;;
-  atom-nightly)
+  atomnoabandon-nightly)
     CHANNEL=nightly
     ;;
-  atom-dev)
+  atomnoabandon-dev)
     CHANNEL=dev
     ;;
   *)
@@ -60,10 +60,10 @@ while getopts ":anwtfvh-:" opt; do
       esac
       ;;
     a)
-      ATOM_ADD=true
+      ATOMNOABANDON_ADD=true
       ;;
     n)
-      ATOM_NEW_WINDOW=true
+      ATOMNOABANDON_NEW_WINDOW=true
       ;;
     w)
       WAIT=1
