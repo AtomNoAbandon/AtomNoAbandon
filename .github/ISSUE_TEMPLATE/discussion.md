@@ -2,7 +2,7 @@
 name: Discussion
 about: A discussion where you can talk about the program.
 title: "[Discussion]"
-labels: ''
+labels: discussion
 assignees: ''
 
 ---
