@@ -1,7 +1,7 @@
 ✔🤎🙋‍♂️Welcome to AtomNoAbandon creating pull requests.
 
  If you are not fixing, that's okay. Remove this text and put your own description here.
- Otherwise, please add an issue in thr Fixes issue box.
+ Otherwise, please add an issue in the Fixes issue box.
  
  - Pull request issue link:
  - #
