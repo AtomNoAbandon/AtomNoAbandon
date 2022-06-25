@@ -1,10 +1,11 @@
-⚛👋 Hello there! Welcome. Please follow the steps below to tell us about your contribution.
+✔🤎🙋‍♂️Welcome to AtomNoAbandon creating pull requests.
 
-1. Copy the correct template for your contribution
-  - 🐛 Are you fixing a bug? Copy the template from <https://bit.ly/atom-bugfix-pr>
-  - 📈 Are you improving performance? Copy the template from <https://bit.ly/atom-perf-pr>
-  - 📝 Are you updating documentation? Copy the template from <https://bit.ly/atom-docs-pr>
-  - 💻 Are you changing functionality? Copy the template from <https://bit.ly/atom-behavior-pr>
-2. Replace this text with the contents of the template
-3. Fill in all sections of the template
-4. Click "Create pull request"
+ If you are not fixing, that's okay. Remove this text and put your own description here.
+ Otherwise, please add an issue in thr Fixes issue box.
+ 
+ - Pull request issue link:
+ - #
+ <!--- You can add multiple issues if you see multiple related to you. If not, just put one! You are free. --->
+ 
+ ### Description of Changes
+ <!--- Add as many detail of your changes as you can. You will be notified through comment on this pull request if it is not descriptive to merge. --->
